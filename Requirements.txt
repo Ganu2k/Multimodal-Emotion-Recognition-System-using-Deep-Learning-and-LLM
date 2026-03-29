@@ -1,0 +1,13 @@
+Requirements
+
+ollama deepseek-r1 any version 
+make sure - ollama run deepseek-r1:1.5b runs 
+CNN, Open cv
+keras
+python version 3.9
+tensorflow==2.10
+opencv-python
+librosa
+numpy
+gradio==3.50.2
+requests
